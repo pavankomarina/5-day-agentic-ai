@@ -6,6 +6,7 @@ This document breaks down the monumental shift in software development from typi
 
 The industry is dividing into two primary ways of interacting with AI for code generation. The difference isn't *whether* you use AI, but how you verify the output.
 
+
 | Feature | Vibe Coding | Agentic Engineering |
 | :--- | :--- | :--- |
 | **Verification** | The "Eye Test" (clicking to see if it works) | Automated tests, CI gates, and systematic evals |
